@@ -1,15 +1,20 @@
 ﻿using System;
-
-namespace wizardNinjaSamurai
+using System.Collections.Generic;
+namespace WizardNinjaSamurai
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Wizard elsa = new Wizard ("elsa"); 
-            // Wizard harry = new Wizard ("harry"); 
-            // Ninja ken  = new Ninja ("ken"); 
-            Console.WriteLine("Hello World!");
+            Wizard joe= new Wizard("joe");
+            Ninja sassypants =new Ninja("sassy pants");
+            Samurai dopey = new Samurai("dopey");
+            joe.Attack(dopey);
+            joe.Attack(sassypants);
+            joe.Attack(joe);
+            joe.Heal(joe);
+
+            
         }
     }
 }

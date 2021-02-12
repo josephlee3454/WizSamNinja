@@ -1,0 +1,16 @@
+/home/owner/dojo/c#colections/wizardNinjaSamurai/bin/Debug/net5.0/wizardNinjaSamurai
+/home/owner/dojo/c#colections/wizardNinjaSamurai/bin/Debug/net5.0/wizardNinjaSamurai.deps.json
+/home/owner/dojo/c#colections/wizardNinjaSamurai/bin/Debug/net5.0/wizardNinjaSamurai.runtimeconfig.json
+/home/owner/dojo/c#colections/wizardNinjaSamurai/bin/Debug/net5.0/wizardNinjaSamurai.runtimeconfig.dev.json
+/home/owner/dojo/c#colections/wizardNinjaSamurai/bin/Debug/net5.0/wizardNinjaSamurai.dll
+/home/owner/dojo/c#colections/wizardNinjaSamurai/bin/Debug/net5.0/ref/wizardNinjaSamurai.dll
+/home/owner/dojo/c#colections/wizardNinjaSamurai/bin/Debug/net5.0/wizardNinjaSamurai.pdb
+/home/owner/dojo/c#colections/wizardNinjaSamurai/obj/Debug/net5.0/wizardNinjaSamurai.csprojAssemblyReference.cache
+/home/owner/dojo/c#colections/wizardNinjaSamurai/obj/Debug/net5.0/wizardNinjaSamurai.GeneratedMSBuildEditorConfig.editorconfig
+/home/owner/dojo/c#colections/wizardNinjaSamurai/obj/Debug/net5.0/wizardNinjaSamurai.AssemblyInfoInputs.cache
+/home/owner/dojo/c#colections/wizardNinjaSamurai/obj/Debug/net5.0/wizardNinjaSamurai.AssemblyInfo.cs
+/home/owner/dojo/c#colections/wizardNinjaSamurai/obj/Debug/net5.0/wizardNinjaSamurai.csproj.CoreCompileInputs.cache
+/home/owner/dojo/c#colections/wizardNinjaSamurai/obj/Debug/net5.0/wizardNinjaSamurai.dll
+/home/owner/dojo/c#colections/wizardNinjaSamurai/obj/Debug/net5.0/ref/wizardNinjaSamurai.dll
+/home/owner/dojo/c#colections/wizardNinjaSamurai/obj/Debug/net5.0/wizardNinjaSamurai.pdb
+/home/owner/dojo/c#colections/wizardNinjaSamurai/obj/Debug/net5.0/wizardNinjaSamurai.genruntimeconfig.cache
